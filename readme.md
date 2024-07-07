@@ -42,13 +42,13 @@ MasterData/symptom_Description.csv
 MasterData/symptom_precaution.csv
 bg3.jpg (Background image for the GUI)
 
-6. Run the Application:
+## Run the Application:
 
     ```bash
     #Copy code
     python chat_bot.py
 
-7. Interact with the GUI:
+## Interact with the GUI:
 
 Enter symptoms in the provided fields.
 Click on "DecisionTree" or "SVM" to get predictions.
