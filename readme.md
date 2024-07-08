@@ -1,13 +1,6 @@
 ### Disease Predictor using Machine Learning
 Welcome to the Disease Predictor project! This application utilizes machine learning algorithms to predict potential diseases based on the symptoms provided by the user. The graphical user interface (GUI) is built using Tkinter and allows users to enter symptoms and get predictions from both Decision Tree and Support Vector Machine (SVM) models.
 
-## 📋 Table of Contents
-Description
-Installation
-Usage
-Files
-Contributing
-License
 ## 📝 Description
 The Disease Predictor application leverages machine learning to analyze symptoms and predict possible diseases. The app uses two models: Decision Tree and SVM. Based on the input symptoms, it lists all potential diseases along with their probabilities and provides precautionary measures.
 
@@ -17,13 +10,13 @@ To run this application, you need to have Python installed on your machine. Foll
 ## Prerequisites
 1. Python 3.x
 2. pip (Python package installer)
-3. Steps
-4. **Clone the repository:**
+    Steps
+3. **Clone the repository:**
     ```bash
     git clone https://github.com/your-repo/disease-predictor.git
     cd disease-predictor
 
-5. Create a virtual environment (optional but recommended):
+4. Create a virtual environment (optional but recommended):
     ```bash
     #Copy code
     python -m venv venv
@@ -42,13 +35,13 @@ MasterData/symptom_Description.csv
 MasterData/symptom_precaution.csv
 bg3.jpg (Background image for the GUI)
 
-6. Run the Application:
+## Run the Application:
 
     ```bash
     #Copy code
     python chat_bot.py
 
-7. Interact with the GUI:
+## Interact with the GUI:
 
 Enter symptoms in the provided fields.
 Click on "DecisionTree" or "SVM" to get predictions.
