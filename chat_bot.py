@@ -177,7 +177,4 @@ if __name__ == '__main__':
         t.grid(row=i, column=1, pady=5, padx=10)
 
     root.mainloop()
-
-
-# modify the above code to show all possible diseases on entering symptoms 
-# and also add a column of precautions (right now its not showing) and suggest to visit hospital 
+ 
